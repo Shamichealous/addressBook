@@ -1,10 +1,18 @@
 .App {
   text-align: center;
 }
+h4 {
+  font-size: 50px
+  /* border-width: 80%; */
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+ul {
+  list-style: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
